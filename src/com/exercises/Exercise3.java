@@ -9,18 +9,18 @@ public class Exercise3 {
 
     public static void main(String[] args) {
        // Initialize variables, their types and values
-       // int i = 100000000000000000000000;
-       //long l = -900000000000000000000000;
+        //int i = 100000000000000000000000;
+        //long l = -900000000000000000000000;
         //correct
-        int i = 1000;
-        long l = -90000;
+        //int i = 1000;
+        //long l = -90000;
         //end correct
         double d = 100;
-
-        // Print the variable values in the console
-        System.out.println(i);
-        System.out.println(l);
-        System.out.println(d);
+//
+//        // Print the variable values in the console
+//        System.out.println(i);
+//        System.out.println(l);
+//        System.out.println(d);
     }
 }
 
