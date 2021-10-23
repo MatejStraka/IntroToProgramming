@@ -1,4 +1,4 @@
-package com.examples;
+package com.examples.day1;
 
 public class BitOperators {
     public static void main(String[] args)

@@ -1,4 +1,4 @@
-package com.examples;
+package com.examples.day2;
 
 public class SwitchDemo {
     public static void main(String[] args){

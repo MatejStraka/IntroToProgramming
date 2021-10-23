@@ -1,12 +1,12 @@
-package com.examples;
+package com.examples.day2;
 
-public class DoWhileDemo {
+public class WhileDemo {
 
     public static void main(String[] args){
         int pocet = 1;
-        do {
+        while (pocet < 11){
             System.out.println("Pocet je: " + pocet);
             pocet++;
-        } while (pocet < 11);
+        }
     }
 }
