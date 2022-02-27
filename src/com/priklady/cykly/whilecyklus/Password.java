@@ -8,7 +8,7 @@ package com.priklady.cykly.whilecyklus;
 
 import java.util.Scanner;
 
-public class Exercise11 {
+public class Password {
     public static void main(String[] args) {
         Scanner readPassword = new Scanner(System.in);
 

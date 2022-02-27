@@ -1,8 +1,14 @@
 package com.priklady.riadenietoku.prikazSwitch;
 
+import java.util.Scanner;
+
 public class SwitchIfDemo {
     public static void main(String[] args) {
-        int mesic = 10;
+        Scanner userInput = new Scanner(System.in);
+
+        System.out.println("Zadaj poradove cislo mesiaca: ");
+        int mesic = userInput.nextInt();
+
         if (mesic == 1) {
             System.out.println("Leden");
         } else if (mesic == 2) {

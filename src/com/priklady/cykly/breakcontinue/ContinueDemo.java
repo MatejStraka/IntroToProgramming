@@ -14,7 +14,6 @@ public class ContinueDemo {
             //sleduje pouze pismena s
             if (prohledat.charAt(i) != 's')
                 continue;
-
             //zpracuje pismena s
             pocetS++;
         }

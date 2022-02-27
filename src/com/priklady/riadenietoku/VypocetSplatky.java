@@ -1,6 +1,7 @@
 package com.priklady.riadenietoku;
 
-//The online store offers installment sale. Write a program calculating the monthly installment for the purchased tower.
+//The online store offers installment sale.
+// Write a program calculating the monthly installment for the purchased tower.
 // Input data for the program are:
 //
 //        * the price of the goods (from $ 100 to $ 10,000)

@@ -12,7 +12,7 @@ package com.priklady.cykly.forcyklus;
 
 import java.util.Scanner;
 
-class Exercise21
+class Palindrom
 {
     public static void main(String []args)
     {

@@ -7,7 +7,7 @@ package com.priklady.cykly.polia;
 // - print minimum value from array
 // - print maximum value from array
 
-public class Exercise13 {
+public class MinMaxPole {
     public static void main(String[] args) {
 
         // Initialize variables

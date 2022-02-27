@@ -5,7 +5,7 @@ package com.priklady.cykly.whilecyklus;
 
 import java.util.Scanner;
 
-public class Exercise15 {
+public class ReverzneCislo {
     public static void main(String[] args) {
 
         Scanner readNumber = new Scanner(System.in);

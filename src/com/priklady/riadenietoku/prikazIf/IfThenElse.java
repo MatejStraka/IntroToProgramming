@@ -1,7 +1,7 @@
 package com.priklady.riadenietoku.prikazIf;
 
 /*
-Napiste program ktory, oznamkuje test na zaklade dosiahnutych percentualnych vysledkov:
+Napiste program ktory, oznamkuje studenta na zaklade dosiahnutych percentualnych vysledkov testu:
 znamka 1 ak je uspesnost testu aspon 90%
 znamka 2 ak je uspesnost testu aspon 80%
 znamka 3 ak je uspesnost testu aspon 70%
@@ -24,7 +24,7 @@ public class IfThenElse {
         } else {
             znamka='5';
         }
-        System.out.println("Znamka = " + znamka);
 
+        System.out.println("Znamka = " + znamka);
     }
 }

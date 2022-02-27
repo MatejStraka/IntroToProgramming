@@ -1,7 +1,7 @@
 package com.priklady.riadenietoku.prikazSwitch;
 
 public class Enums {
-
+//Napiste program ktory na obrazovku vypise ci je vikend, pondelok, piatok alebo iba obycajny pracovny den
     public static void main(String[] args) {
         enum Days {
             MONDAY,
@@ -12,9 +12,10 @@ public class Enums {
             SATURDAY,
             SUNDAY
         }
-        System.out.println(Days.MONDAY);
 
+        System.out.println(Days.MONDAY);
         Days myVar=Days.SATURDAY;
+
         switch(myVar) {
             case MONDAY:
                 System.out.println("First day of the week");

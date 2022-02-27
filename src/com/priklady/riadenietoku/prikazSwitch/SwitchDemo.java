@@ -1,8 +1,15 @@
 package com.priklady.riadenietoku.prikazSwitch;
 
+import java.util.Scanner;
+
 public class SwitchDemo {
+    //Napiste program ktory na zaklade cisla mesiaca vypise nazov daneho mesiaca v cestine
     public static void main(String[] args){
-        int mesic = 10;
+
+        Scanner userInput = new Scanner(System.in);
+        System.out.println("Zadaj poradove cislo mesiaca: ");
+        int mesic = userInput.nextInt();
+
         switch(mesic){
             case 1:
                 System.out.println("Leden"); break;
