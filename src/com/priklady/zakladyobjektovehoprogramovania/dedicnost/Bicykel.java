@@ -1,11 +1,11 @@
 package com.priklady.zakladyobjektovehoprogramovania.dedicnost;
 
 public class Bicykel {
-    private int frekvence;
-    private int prevod;
-    private int rychlost;
-    private int id;
-    private static int pocetBicyklov = 0;
+    public int frekvence;
+    public int prevod;
+    public int rychlost;
+    public int id;
+    public static int pocetBicyklov = 0;
 
     public Bicykel(){
         prevod = 0;
