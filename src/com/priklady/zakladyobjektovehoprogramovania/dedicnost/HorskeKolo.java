@@ -1,9 +1,9 @@
-package com.priklady.zakladyobjektovehoprogramovania;
+package com.priklady.zakladyobjektovehoprogramovania.dedicnost;
 
 public class HorskeKolo extends Bicykel {
     public int vyskaSedla;
 
-    public HorskeKolo(int pocatecniFrekvence, int pocatecniRychlost, int pocatecniPrevod, int pocatecniVyska) {
+    public HorskeKolo(int pocatecniVyska) {
         //super(pocatecniFrekvence, pocatecniRychlost, pocatecniPrevod);
         vyskaSedla=pocatecniVyska;
     }
